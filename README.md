@@ -51,8 +51,8 @@ The Project have managed to score an accuracy of ~96% as well as maintaining hig
     macro avg          0.96      0.96      0.96     33300
     weighted avg       0.96      0.96      0.96     33300
 
-#License
+# License
 This project/code is publised under MIT License. However datasets that are used is under SDSS Public Domain.
 
-#References
+# References
 - fedesoriano. (January 2022). Stellar Classification Dataset - SDSS17. Retrieved from https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17.
